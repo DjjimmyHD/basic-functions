@@ -39,11 +39,11 @@
   ]
 }
 
-//Question 4 List the names of all your family members
+// 4. List the names of all your family members
 
-//Question 5 Get the oldest member of the family using a loop
+// 5. Get the oldest member of the family using a loop
 
-//Question 6 Only show the women in the family using a conditional
+// 6. Only show the women in the family using a conditional
 
-// Question 7 Change your last name
+// 7. Change your last name
 
